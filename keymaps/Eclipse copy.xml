@@ -1,0 +1,19 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
+  <action id="FileChooser.GotoHome" />
+  <action id="GotoBookmark1" />
+  <action id="HippieCompletion" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+</keymap>

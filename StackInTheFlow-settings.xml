@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="settingsMap">
+      <map>
+        <entry key="AUTO_QUERY" value="true" />
+        <entry key="RUNTIME_ERROR" value="true" />
+        <entry key="COMPILE_ERROR" value="true" />
+        <entry key="DIFFICULTY" value="true" />
+        <entry key="LOGGING" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

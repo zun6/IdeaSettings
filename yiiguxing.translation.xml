@@ -1,0 +1,49 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Java heap space" />
+      <item value="multilevel refinement" />
+      <item value="Elapsed time" />
+      <item value="Elapsed" />
+      <item value="Iteration" />
+      <item value="Modularity Optimizer version 1.2.0 by Ludo Waltman and Nees Jan van Eck" />
+      <item value="Modularity" />
+      <item value="ribbon Type" />
+      <item value="ribbonType: true," />
+      <item value="roam" />
+      <item value="hover Animation" />
+      <item value="focus Node Adjacency" />
+      <item value="curveness" />
+      <item value="opacity" />
+      <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
+      <item value="Establishing" />
+      <item value="the JDBC Driver has been forcibly unregistered." />
+      <item value="16-Apr-2020 12:40:57.162 璀﹀憡 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [dp_web_war_exploded] registered the JDBC driver [com.alibaba.druid.proxy.DruidDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.&#10;16-Apr-2020 12:40:57.162 璀﹀憡 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [dp_web_war_exploded] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
+      <item value="Exception in thread &quot;Quartz Scheduler [quartzScheduler]&quot; org.springframework.scheduling.SchedulingException: Could not start Quartz Scheduler after delay; nested exception is org.quartz.SchedulerException: The Scheduler cannot be restarted after shutdown() has been called." />
+      <item value="Executing queries that use periodic commit in an open transaction is not possible." />
+      <item value="color: java.awt.SystemColor = java.awt.SystemColor[i=13]&#10;res3: String = Text is black" />
+      <item value="org.springframework.scheduling.quartz.LocalDataSourceJobStore.clusterRecover(line 3442) : ClusterManager: Scanning for instance &quot;DESKTOP-M0IRP9A1568623512663&quot;'s failed in-progress jobs." />
+      <item value="Mon Sep 16 16:45:43 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
+      <item value="Table configuration with catalog null, schema null, and table mybatisTest did not resolve to any tables" />
+      <item value="[ERROR] Failed to execute goal org.mybatis.generator:mybatis-generator-maven-plugin:1.3.5:generate (default-cli) on project demo: The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support. -&gt; [Help 1]" />
+      <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
+      <item value="] Error stacktraces are turned on." />
+      <item value="Introspecting table test.mybatisTest" />
+      <item value="Table configuration with catalog null, schema test, and table mybatisTest did not resolve to any tables" />
+      <item value="The {@link NacosProperties} attribute, If not specified, it will use global Nacos Properties." />
+      <item value="[ERROR] No plugin found for prefix 'spring-boot' in the current project and in the plugin groups [org.apache.maven.plugins, org.codehaus.mojo] available from the repositories [local (F:\Maven-Repository), central (https://repo.maven.apache.org/maven2)] -&gt; [Help 1]" />
+      <item value="org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.apache.commons.dbcp.SQLNestedException: Cannot create PoolableConnectionFactory (Could not create connection to database server. Attempted reconnect 3 times. Giving up.)" />
+      <item value="org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/nacos_server_war]]" />
+      <item value="version" />
+      <item value="/packaging&gt;" />
+      <item value="Exception" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
+        <entry key="DUTCH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

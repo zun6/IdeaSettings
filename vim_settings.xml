@@ -1,0 +1,42 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="G:/JAVA/Workspace/animal_porject/src/cn/animal/dao/IDAO.java" timestamp="1551785837726">
+        <mark key="[" line="38" column="20" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
